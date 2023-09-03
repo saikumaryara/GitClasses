@@ -3,3 +3,4 @@ take input from user
 jj
 Please submit data
 kkkkk
+create anb avatar for user
